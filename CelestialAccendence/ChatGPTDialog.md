@@ -100,6 +100,5 @@ Guardian's Focus: The vessel serves as a focal point for the being's powers, all
 Creation and Purpose:
 The creation of the Beacon of Unity would be a significant part of the transformation process, requiring materials and rituals that embody the aspirant's commitment to good. The vessel's nature would be deeply personal, tied to the individual's past deeds, and reflecting their future mission. Unlike a lich's phylactery, which is often hidden away, the Beacon of Unity could be placed in a location where it can do the most good, such as in a temple, at the heart of a community, or in a sacred natural site, making its protection a shared responsibility with those it serves.
 
-This conceptual shift from a phylactery to the Beacon of Unity emphasizes the transformation from a selfish pursuit of immortality to a selfless dedication to the greater good, making the vessel an integral part of the being's existence and mission within the world.
 
 
