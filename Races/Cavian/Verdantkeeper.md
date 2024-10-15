@@ -1,5 +1,6 @@
 ### **Cavian Verdantkeeper (Cleric Subclass)**
-![image](https://github.com/user-attachments/assets/77d8c6e4-e39e-4196-a02d-60126e5dadc9){ width=200px; height=200px }
+
+<img src="https://github.com/user-attachments/assets/77d8c6e4-e39e-4196-a02d-60126e5dadc9" alt="VerdantKeeper Cleric" width="400" height="400">
 
 #### **Domain: Verdant Harvest (Nature/Harvest Deity)**
 
